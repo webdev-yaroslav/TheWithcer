@@ -7,7 +7,7 @@
   }
 
 body {
-    background: #141218 url(/img/background.jpg) top right 100px no-repeat;
+    background: #141218 url(img/background.jpg) top right 100px no-repeat;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -91,7 +91,7 @@ a {
 }
 
 .play {
-    background: url(/img/play.svg) no-repeat right 45% top 50%;
+    background: url(img/play.svg) no-repeat right 45% top 50%;
     margin: auto;
     background-color: #9D2929;
     border-color: #9D2929;
@@ -126,7 +126,7 @@ a {
     position: absolute;
     width: 164px;
     height: 113px;
-    background: url(/img/series/card-image1.png);
+    background: url(img/series/card-image1.png);
     border-radius: 8px;
 }
 .series-card-text-1 {
@@ -145,7 +145,7 @@ a {
     width: 164px;
     height: 113px;
     margin-left: 194px;
-    background: url(/img/series/card-image2.png);
+    background: url(img/series/card-image2.png);
 }
 .series-card-text-2 {
     padding: 70px 13px;
