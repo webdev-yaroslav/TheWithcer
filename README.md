@@ -1,2 +1,2 @@
-# Промо-сайт сериала "Ведьмак"
+# Промо-сайт сериала «Ведьмак»
 https://webdev-yaroslav.github.io/TheWithcer/
